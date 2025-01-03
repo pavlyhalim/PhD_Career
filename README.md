@@ -115,4 +115,4 @@ A Streamlit application and a machine learning model to predict career personas 
 - [Streamlit Documentation](https://docs.streamlit.io/)
 - [LangChain Documentation](https://langchain.readthedocs.io/en/latest/)
 - [Google Generative AI](https://developers.generativeai.google/)
-- [SerpAPI](https://serpapi.com/)
+- [SerpAPI](https://serpapi.com/) or just use [Serper](https://serper.dev/) cheaper and more free requests
